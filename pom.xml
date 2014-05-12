@@ -29,8 +29,8 @@
     <version>1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>base2-BOMS</name>
-    <url>http://github.com/base2Services/base2-BOMS</url>
+    <name>base2-boms</name>
+    <url>http://github.com/base2Services/base2-boms</url>
     <description>Parent pom for all of base2 Bill of Material poms</description>
 
     <inceptionYear>2014</inceptionYear>
@@ -58,9 +58,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:base2Services/base2-BOMS.git</connection>
-        <developerConnection>scm:git:git@github.com:base2Services/base2-BOMS.git</developerConnection>
-        <url>git@github.com:base2Services/base2-BOMS.git</url>
+        <connection>scm:git:git@github.com:base2Services/base2-boms.git</connection>
+        <developerConnection>scm:git:git@github.com:base2Services/base2-boms.git</developerConnection>
+        <url>git@github.com:base2Services/base2-boms.git</url>
     </scm>
 
     <prerequisites>
