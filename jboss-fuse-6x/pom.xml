@@ -31,7 +31,7 @@
 
     <properties>
         <jboss.fuse.base.version>6.1.0</jboss.fuse.base.version>
-        <jboss.fuse.suffix>redhat-355</jboss.fuse.suffix>
+        <jboss.fuse.suffix>redhat-379</jboss.fuse.suffix>
         <jboss.fuse.version>${jboss.fuse.base.version}.${jboss.fuse.suffix}</jboss.fuse.version>
         <jboss.fuse.bom.version>${jboss.fuse.version}</jboss.fuse.bom.version>
     </properties>
